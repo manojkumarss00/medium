@@ -18,6 +18,7 @@ app.use('/*', cors())
 app.route('/api/v1/user', userRouter);
 app.route('/api/v1/blog', blogRouter);
 
-
+//changes from manojkumars12 to manojkumars00
+// PR2
 
 export default app
